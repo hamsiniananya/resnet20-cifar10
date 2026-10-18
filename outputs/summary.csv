@@ -1,0 +1,3 @@
+model,best_val_accuracy,test_loss,test_accuracy
+ResNet-20,92.44,0.3707857472419739,91.48
+Plain-20,91.0,0.4363424500465393,90.19

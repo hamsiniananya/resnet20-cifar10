@@ -9,3 +9,6 @@ runs/
 checkpoints/
 *.pth
 *.pt
+outputs/**/*.pt
+outputs/**/*.pth
+

@@ -268,11 +268,3 @@ Potential extensions include:
 He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 770–778.
 
 https://doi.org/10.1109/CVPR.2016.90
-
-## Acknowledgements
-
-This project was developed as a hands-on study of deep residual learning, optimization, and experimental evaluation in computer vision. The implementation and reported results are intended to support transparent, reproducible experimentation.
-
-## License
-
-A license has not yet been selected. Add a suitable license before redistributing the source code, and respect the terms of the CIFAR-10 dataset and referenced research materials.

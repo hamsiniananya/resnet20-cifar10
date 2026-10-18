@@ -267,4 +267,8 @@ Potential extensions include:
 
 He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 770–778.
 
+<<<<<<< HEAD
 https://doi.org/10.1109/CVPR.2016.90
+=======
+https://doi.org/10.1109/CVPR.2016.90
+>>>>>>> f15a18904c1db5cbf7a36b2ac345c4dcaa822fa9
